@@ -29,25 +29,25 @@ El esquema de la base de datos es el que se muestra en la imagen siguiente. Este
 
 # Imágenes del funcionamiento
 
-### Gestión de Proyectos
+## Gestión de Proyectos
 ![6.png](https://github.com/jfbernal92/CRUD/blob/master/Images/6.png)
 ![7.png](https://github.com/jfbernal92/CRUD/blob/master/Images/7.png)
 ![8.png](https://github.com/jfbernal92/CRUD/blob/master/Images/8.png)
 ![9.png](https://github.com/jfbernal92/CRUD/blob/master/Images/9.png)
 
-### Gestión de Artículos
+## Gestión de Artículos
 ![10.png](https://github.com/jfbernal92/CRUD/blob/master/Images/10.png)
 ![11.png](https://github.com/jfbernal92/CRUD/blob/master/Images/11.png)
 ![12.png](https://github.com/jfbernal92/CRUD/blob/master/Images/12.png)
 ![13.png](https://github.com/jfbernal92/CRUD/blob/master/Images/13.png)
 
-### Gestión de Artículos necesarios para realizar un Proyecto
+## Gestión de Artículos necesarios para realizar un Proyecto
 ![14.png](https://github.com/jfbernal92/CRUD/blob/master/Images/14.png)
 ![15.png](https://github.com/jfbernal92/CRUD/blob/master/Images/15.png)
 ![16.png](https://github.com/jfbernal92/CRUD/blob/master/Images/16.png)
 
 
-### Mensajes de confirmación, alerta o error al manipular datos
+## Mensajes de confirmación, alerta o error al manipular datos
 ![17.png](https://github.com/jfbernal92/CRUD/blob/master/Images/17.png)
 ![18.png](https://github.com/jfbernal92/CRUD/blob/master/Images/18.png)
 ![19jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/19.png)
