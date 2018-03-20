@@ -30,25 +30,25 @@ El esquema de la base de datos es el que se muestra en la imagen siguiente. Este
 # Imágenes del funcionamiento
 
 ### Gestión de Proyectos
-![6.jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/6.jpg)
-![7.jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/7.jpg)
-![8.jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/8.jpg)
+![6.png](https://github.com/jfbernal92/CRUD/blob/master/Images/6.png)
+![7.png](https://github.com/jfbernal92/CRUD/blob/master/Images/7.png)
+![8.png](https://github.com/jfbernal92/CRUD/blob/master/Images/8.png)
 ![9.png](https://github.com/jfbernal92/CRUD/blob/master/Images/9.png)
 
 ### Gestión de Artículos
-![10.jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/10.jpg)
-![11.jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/11.jpg)
-![12.jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/12.jpg)
+![10.png](https://github.com/jfbernal92/CRUD/blob/master/Images/10.png)
+![11.png](https://github.com/jfbernal92/CRUD/blob/master/Images/11.png)
+![12.png](https://github.com/jfbernal92/CRUD/blob/master/Images/12.png)
 ![13.png](https://github.com/jfbernal92/CRUD/blob/master/Images/13.png)
 
 ### Gestión de Artículos necesarios para realizar un Proyecto
-![14.jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/14.jpg)
-![15.jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/15.jpg)
-![16.jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/16.jpg)
+![14.png](https://github.com/jfbernal92/CRUD/blob/master/Images/14.png)
+![15.png](https://github.com/jfbernal92/CRUD/blob/master/Images/15.png)
+![16.png](https://github.com/jfbernal92/CRUD/blob/master/Images/16.png)
 
 
 ### Mensajes de confirmación, alerta o error al manipular datos
 ![17.png](https://github.com/jfbernal92/CRUD/blob/master/Images/17.png)
-![18.jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/18.jpg)
-![19jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/19.jpg)
-![20.jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/20.jpg)
+![18.png](https://github.com/jfbernal92/CRUD/blob/master/Images/18.png)
+![19jpg](https://github.com/jfbernal92/CRUD/blob/master/Images/19.png)
+![20.png](https://github.com/jfbernal92/CRUD/blob/master/Images/20.png)
