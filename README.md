@@ -4,7 +4,7 @@
 #### Curso: 1º DAW 2017/2018
 
 ## Descripción:
-Es una aplicación web para la gestión de proyectos de arduino en la cuál, a través de la interfaz podremos, crear, modificar y eliminar proyectos. También se podrán añadir artículos así como asignarlos a un proyecto determinado. 
+Este crud una aplicación web, llamada Gestuino, para la gestión de proyectos de arduino en la cuál, a través de la interfaz podremos, crear, modificar y eliminar proyectos. También se podrán añadir artículos así como asignarlos a un proyecto determinado. Se han utilizado los lenguajes de programacion: **HTML, CSS, JSP, MySQL y JavaScript**
 
 ## A tener en cuenta:
 **Esta aplicación web cuenta con dos liberías** para la subida de archivos mediante formulario, que pueden no estar incluidas en el entorno de desarrollo que se esté utilizando. Estos archivos jar se han adjuntado en la carpeta [Archivos de liberia](https://github.com/jfbernal92/CRUD/tree/master/Archivos%20de%20libreria). Para importarlos correctamente en **netbeans** hay que hacer lo siguiente:
